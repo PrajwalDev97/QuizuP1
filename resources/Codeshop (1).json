@@ -1,0 +1,53 @@
+{
+    "title": "Maverick Quiz-Hub ( CODE-SHOP)",
+    "questions": [
+        {
+            "question": "where are we storing the uploaded script?",
+            "correct": 3,
+            "answers": [
+                "MySQL",
+                "oracle ",
+                "Postgre SQL ",
+                "storage account"
+            ]
+        },
+        {
+            "question": ".Is it possible to execute a script file within the CodeShop app?",
+            "correct": 0,
+            "answers": [
+                "yes",
+                "no"
+            ]
+        },
+        {
+            "question": "What is the approach for user authentication in CodeShop when utilizing the Azure CLI?",
+            "correct": 0,
+            "answers": [
+                "use-device-code",
+                "service principal",
+                "username and password",
+                "managed identity"
+            ]
+        },
+        {
+            "question": "What technology or tool does the CodeShop use to connect each user to their respective cloud accounts?",
+            "correct": 1,
+            "answers": [
+                "kubernetes",
+                "docker",
+                "openshift",
+                "azure aci"
+            ]
+        },
+        {
+            "question": "What is the maximum size of the file which we can upload to codeshop?",
+            "correct": 2,
+            "answers": [
+                "5mb",
+                "15mb",
+                "10mb",
+                "20mb"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Maverick MIM Quiz",
+    "questions": [
+        {
+            "question": "Which continent has only one country?",
+            "correct": 1,
+            "answers": [
+                "Africa",
+                "Asia",
+                "Australia",
+                "South America"
+            ]
+        },
+        {
+            "question": "Which vegetable gives Popeye his strength?",
+            "correct": 3,
+            "answers": [
+                "Asparagus",
+                "Broccoli",
+                "Lentils",
+                "Spinach"
+            ]
+        },
+        {
+            "question": "The head of which country resides at number 10 Downing Street?",
+            "correct": 3,
+            "answers": [
+                "Brazil",
+                "Canada",
+                "Nigeria",
+                "United Kingdom"
+            ]
+        }
+    ]
+}
