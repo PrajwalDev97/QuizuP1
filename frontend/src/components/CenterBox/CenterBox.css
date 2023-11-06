@@ -9,8 +9,7 @@
     width: 100%;
     color: #fff;
     font-family: 'Roboto', 'Segoe UI', sans-serif;
-    background: rgb(9, 56, 121) !important;
-    background: linear-gradient(45deg, rgba(9, 56, 121, 1) 13%, rgba(0, 212, 255, 1) 100%) !important;
+    background-image: url('../../../../frontend/src/assets/33.png');
 }
 
 .middle {
