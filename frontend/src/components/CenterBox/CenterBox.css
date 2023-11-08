@@ -10,6 +10,7 @@
     color: #fff;
     font-family: 'Roboto', 'Segoe UI', sans-serif;
     background-image: url('../../../../frontend/src/assets/33.png');
+    background-size: cover;
 }
 
 .middle {
